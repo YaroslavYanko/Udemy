@@ -1,0 +1,7 @@
+.app__header {
+  background-color: orangered;
+  width: 100%;
+}
+.app__header img {
+  width: 100px;
+}

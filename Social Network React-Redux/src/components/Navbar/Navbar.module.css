@@ -1,0 +1,36 @@
+.app__nav {
+  width: 200px;
+  background-color: olivedrab;
+  text-align: center;
+  font-size: 25px;
+  line-height: 2;
+}
+a {
+  text-decoration: none;
+  color: rgb(4, 4, 71);
+}
+.active {
+  color: rgb(196, 216, 19);
+}
+.app__nav_friends {
+  display: flex;
+  margin-top: 50px;
+  justify-content: center;
+}
+.app__nav_friends_friend img {
+  width: 130px;
+  border-radius: 100px;
+}
+.app__nav_friends ul {
+  display: flex;
+  font-size: 17px;
+  width: 100%;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.app__nav_friends ul li a {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}

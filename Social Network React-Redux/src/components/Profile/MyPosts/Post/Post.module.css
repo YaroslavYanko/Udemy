@@ -1,0 +1,9 @@
+.post {
+  margin-top: 30px;
+}
+.post__img {
+  width: 50px;
+}
+.post__text {
+  color: blue;
+}

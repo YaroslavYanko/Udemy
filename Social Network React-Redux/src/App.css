@@ -1,0 +1,18 @@
+li {
+  list-style: none;
+}
+.app__wrapper {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  width: 1200px;
+  justify-content: center;
+  margin: 0 auto;
+}
+
+.app__content_wrapper {
+  display: flex;
+  width: 100%;
+}
+
+

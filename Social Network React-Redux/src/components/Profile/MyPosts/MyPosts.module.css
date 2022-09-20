@@ -1,0 +1,16 @@
+.posts__input{
+    width: 50%;
+    height: 2rem;
+    font-weight: bold;
+    border: none;
+    outline: none;
+}
+.posts__button_send{
+    padding: 0.5rem 1.5rem;
+    margin-left: 15px;
+    background-color:darkred;
+    border: none;
+    font-weight: bold;
+    color: white;
+    cursor: pointer;
+}

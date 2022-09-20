@@ -1,0 +1,7 @@
+.dialogs{
+    background-color: rgb(6, 51, 51);
+    display: flex;
+   justify-content: space-between;
+   color: wheat;
+   width: 400px;
+}
